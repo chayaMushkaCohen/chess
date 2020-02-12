@@ -1,0 +1,11 @@
+C:\Users\HACKERU\source\repos\chessTrying\bin\Debug\netcoreapp2.1\chessTrying.deps.json
+C:\Users\HACKERU\source\repos\chessTrying\bin\Debug\netcoreapp2.1\chessTrying.runtimeconfig.json
+C:\Users\HACKERU\source\repos\chessTrying\bin\Debug\netcoreapp2.1\chessTrying.runtimeconfig.dev.json
+C:\Users\HACKERU\source\repos\chessTrying\bin\Debug\netcoreapp2.1\chessTrying.dll
+C:\Users\HACKERU\source\repos\chessTrying\bin\Debug\netcoreapp2.1\chessTrying.pdb
+C:\Users\HACKERU\source\repos\chessTrying\obj\Debug\netcoreapp2.1\chessTrying.csprojAssemblyReference.cache
+C:\Users\HACKERU\source\repos\chessTrying\obj\Debug\netcoreapp2.1\chessTrying.csproj.CoreCompileInputs.cache
+C:\Users\HACKERU\source\repos\chessTrying\obj\Debug\netcoreapp2.1\chessTrying.AssemblyInfoInputs.cache
+C:\Users\HACKERU\source\repos\chessTrying\obj\Debug\netcoreapp2.1\chessTrying.AssemblyInfo.cs
+C:\Users\HACKERU\source\repos\chessTrying\obj\Debug\netcoreapp2.1\chessTrying.dll
+C:\Users\HACKERU\source\repos\chessTrying\obj\Debug\netcoreapp2.1\chessTrying.pdb
